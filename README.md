@@ -5,7 +5,6 @@
 
 🌱 I’m currently learning HTML, CSS, JavaScript, Express JS & React JS  
 🤝 I’m looking to collaborate in a team to hone my skills and increase my work experience.
-
 📫 Reach me via Discord or WhatsApp  
 
 ---
