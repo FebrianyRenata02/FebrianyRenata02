@@ -53,6 +53,10 @@
 <!-- Garis gradient biru ungu -->
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=4facfe&color=purple&link=" width="100%" height="3px"/>
 
+## 🐍 Snake Animation
+
+![Snake animation](https://github.com/FebrianyRenata02/FebrianyRenata02/blob/output/github-contribution-grid-snake.svg)
+
 ## ⚡ GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=FebrianyRenata02&show_icons=true&theme=radical)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FebrianyRenata02&theme=radical)  
