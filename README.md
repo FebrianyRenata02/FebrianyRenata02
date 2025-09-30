@@ -48,7 +48,9 @@
 ![MikroTik](https://img.shields.io/badge/mikrotik-%23E31837.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-%23007ACC.svg?style=for-the-badge&logo=internetofthings&logoColor=white)
 
----
+
+<!-- Garis gradient biru ungu -->
+<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=4facfe&color=purple&link=" width="100%" height="3px"/>
 
 ## ⚡ GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=FebrianyRenata02&show_icons=true&theme=radical)  
