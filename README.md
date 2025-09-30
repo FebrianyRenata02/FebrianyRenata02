@@ -8,6 +8,9 @@
   <h1><span id="typing"></span></h1>
 </div>
 
+<!-- Garis glowing animasi -->
+<img src="https://i.ibb.co/rm0Z0Wc/gradient-line.gif" width="100%" height="3px"/>
+
 
 🌱 I’m currently learning **HTML, CSS, JavaScript, Express JS & React JS**  
 🤝 I want to collaborate on projects to improve my skills and hone my work skills    
