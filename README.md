@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4facfe&center=true&vCenter=true&width=600&lines=I'm+Web+Developer+%26+DevOps+Engineer;Always+Learning+New+Things;Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
 
-🌱 I’m currently learning **HTML, CSS, JavaScript, Express JS & React JS**
-🤝 I’m want to collaborate on projects to improve my skills and hone my work skills.**
+🌱 I’m currently learning **HTML, CSS, JavaScript, Express JS & React JS**  
+🤝 I’m want to collaborate on projects to improve my skills and hone my work skills.**  
 📫 Reach me via **Discord or WhatsApp**
 
 ---
