@@ -11,9 +11,6 @@
 <!-- Garis glowing animasi -->
 <img src="https://i.ibb.co/rm0Z0Wc/gradient-line.gif" width="100%" height="3px"/>
 
-<!-- Garis gradient biru ungu -->
-<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=4facfe&color=purple&link=" width="100%" height="3px"/>
-
 ## 🚀 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
