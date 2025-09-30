@@ -23,9 +23,12 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Fortran](https://img.shields.io/badge/fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 ![Pwn](https://img.shields.io/badge/pwn-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![MikroTik](https://img.shields.io/badge/mikrotik-%23E31837.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-%23007ACC.svg?style=for-the-badge&logo=internetofthings&logoColor=white)
 
 <!-- Garis gradient biru ungu -->
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=4facfe&color=purple&link=" width="100%" height="3px"/>
