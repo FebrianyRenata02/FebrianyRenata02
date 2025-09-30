@@ -2,36 +2,6 @@
 
 # Hi there, I'm Febriany Renata 👋
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Gradient Line</title>
-  <style>
-    body {
-      background: #0d1117; /* biar mirip GitHub dark mode */
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-
-    .gradient-line {
-      width: 90%;
-      height: 3px;
-      border: none;
-      border-radius: 10px;
-      background: linear-gradient(to right, #4a00e0, #00c6ff, #4a00e0);
-    }
-  </style>
-</head>
-<body>
-  <div class="gradient-line"></div>
-</body>
-</html>
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4facfe&center=true&vCenter=true&width=600&lines=I'm+Web+Developer+%26+DevOps+Engineer;Always+Learning+New+Things;Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
 
 🌱 I’m currently learning **HTML, CSS, JavaScript, Express JS & React JS**  
