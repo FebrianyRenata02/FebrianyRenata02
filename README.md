@@ -4,8 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4facfe&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Febriany+Renata;Web+Developer+%26+DevOps+Engineer;Always+Learning+New+Things;Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
 
 🌱 I’m currently learning HTML, CSS, JavaScript, Express JS & React JS  
-🤝  I’m looking to collaborate in a team to hone my skills and increase my work experience.
-
+🤝 I’m looking to collaborate in a team to hone my skills and increase my work experience.
 📫 Reach me via Discord or WhatsApp  
 
 ---
