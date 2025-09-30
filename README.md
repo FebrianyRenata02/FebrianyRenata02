@@ -11,21 +11,6 @@
   <h1><span id="typing"></span></h1>
 </div>
 
-<script>
-  var typed = new Typed("#typing", {
-    strings: [
-      "I'm Full Stack Developer", 
-      "Full Stack Developer & DevOps Engineer"
-    ],
-    typeSpeed: 60,
-    backSpeed: 40,
-    backDelay: 1500,
-    startDelay: 500,
-    loop: false,
-    showCursor: true,
-    cursorChar: "|"
-  });
-</script>
 
 🌱 I’m currently learning **HTML, CSS, JavaScript, Express JS & React JS**  
 🤝 I want to collaborate on projects to improve my skills and hone my work skills    
