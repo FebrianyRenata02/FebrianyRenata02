@@ -61,9 +61,4 @@
 <!-- Garis gradient biru ungu -->
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=4facfe&color=purple&link=" width="100%" height="3px"/>
 
-## 📊 GitHub Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FebrianyRenata02&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FebrianyRenata02&layout=compact&theme=radical)
-
 </div>
