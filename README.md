@@ -1,9 +1,7 @@
 # Hi there 👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4facfe&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Febriany+Renata;Web+Developer+%26+DevOps+Engineer;Always+Learning+New+Things;Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6EE7FF&color2=9333EA&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Febriany+Renata;Web+Developer+%26+DevOps+Engineer;Always+Learning+New+Things;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6EE7FF&color2=9333EA&center=true&vCenter=true&width=600&lines=👋 I'm+Febriany+Renata;Web+Developer+%26+DevOps+Engineer;Always+Learning+New+Things;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 - 👋 Hi, I’m @FebrianyRenata
