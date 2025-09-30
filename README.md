@@ -2,6 +2,11 @@
 
 # Hi there, I'm Febriany Renata 👋
 
+<div align="center">
+  <div style="width:90%; height:3px; border-radius:10px; background:linear-gradient(to right, #4a00e0, #00c6ff, #4a00e0);"></div>
+</div>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4facfe&center=true&vCenter=true&width=600&lines=I'm+Web+Developer+%26+DevOps+Engineer;Always+Learning+New+Things;Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
 
 🌱 I’m currently learning **HTML, CSS, JavaScript, Express JS & React JS**  
