@@ -1,5 +1,11 @@
 <div align="center">
 
+
+<!-- ===== HEADER BANNER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Febriany%20Renata&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
 # Hi there, I'm Febriany Renata 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4facfe&center=true&vCenter=true&width=600&lines=I'm+Web+Developer+%26+DevOps+Engineer;Always+Learning+New+Things;Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
