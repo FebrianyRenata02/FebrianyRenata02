@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- ================= SYSTEM HEADER ================= -->
-
-
 <pre>
 $ whoami
 > Febriany Renata
