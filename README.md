@@ -28,7 +28,7 @@
 &lines=Initializing+Hacker+Terminal...;
 Accessing+Secure+System...;
 Identity+Verified:+Febriany+Renata;
-Role:Graphic+Design+%7C+Web+Developer+%7C+DevOps+Engineer;
+Role:Web+Developer+%7C+DevOps+Engineer;
 System+Status:+ONLINE+✔" />
 
 <!-- Hacker Divider -->
