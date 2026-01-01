@@ -3,7 +3,16 @@
 
 <!-- ===== HEADER BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Febriany%20Renata&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api
+    ?type=waving
+    &color=0:0f2027,50:003300,100:00ff9c
+    &height=200
+    &section=header
+    &text=Febriany%20Renata
+    &fontSize=46
+    &fontColor=00ff9c
+    &animation=fadeIn
+    &fontAlignY=38" />
 </p>
 
 # Hi there, I'm Febriany Renata 👋
