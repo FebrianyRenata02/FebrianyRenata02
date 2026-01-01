@@ -36,7 +36,7 @@ System+Status:+ONLINE+✔" />
 
 </div>
 
-
+<div align="center">
 
 <pre>
 $ whoami
