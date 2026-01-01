@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <!-- ===== HEADER BANNER ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api
@@ -17,63 +16,89 @@
 
 # Hi there, I'm Febriany Renata 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4facfe&center=true&vCenter=true&width=600&lines=I'm+Web+Developer+%26+DevOps+Engineer;Always+Learning+New+Things;Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39ff14&center=true&vCenter=true&width=650&lines=Web+Developer+%26+DevOps+Engineer;Always+Learning+New+Things;Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
 
 🌱 I’m currently learning **HTML, CSS, JavaScript, Express JS & React JS**  
-🤝 I want to collaborate on projects to improve my skills and hone my work skills    
+🤝 I want to collaborate on projects to improve my skills and hone my work skills  
 📫 Reach me via **Discord or WhatsApp**
 
-<!-- Garis gradient biru ungu -->
-<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=4facfe&color=purple&link=" width="100%" height="3px"/>
+<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=00ff9c" width="100%" height="3px"/>
+
+---
 
 ## 🚀 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=Sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=39ff14)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=39ff14)
+![Sass](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=39ff14)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=39ff14)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=39ff14)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=39ff14)
+![Vue](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vue.js&logoColor=39ff14)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=39ff14)
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=39ff14)
+![Express](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=39ff14)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=39ff14)
 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39ff14)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=39ff14)
+![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=39ff14)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=39ff14)
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=39ff14)
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39ff14)
+![MikroTik](https://img.shields.io/badge/MikroTik-0d1117?style=for-the-badge&logo=mikrotik&logoColor=39ff14)
+![IoT](https://img.shields.io/badge/IoT-0d1117?style=for-the-badge&logo=internetofthings&logoColor=39ff14)
 
-![COBOL](https://img.shields.io/badge/COBOL-%23007ACC.svg?style=for-the-badge&logo=ibm&logoColor=white)
-![BASIC](https://img.shields.io/badge/BASIC-%23007ACC.svg?style=for-the-badge&logo=basic&logoColor=white)
-![Pascal](https://img.shields.io/badge/pascal-%233B5526.svg?style=for-the-badge&logo=delphi&logoColor=white)
-![Fortran](https://img.shields.io/badge/fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=00ff9c" width="100%" height="3px"/>
 
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Pwn](https://img.shields.io/badge/pwn-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
-![MikroTik](https://img.shields.io/badge/mikrotik-%23E31837.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-%23007ACC.svg?style=for-the-badge&logo=internetofthings&logoColor=white)
+---
 
+## 🧬 DEVELOPER METRICS
 
-<!-- Garis gradient biru ungu -->
-<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=4facfe&color=purple&link=" width="100%" height="3px"/>
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
-## ⚡ GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=FebrianyRenata02&show_icons=true&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=FebrianyRenata02&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FebrianyRenata02&layout=compact&theme=radical)
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api
+?username=FebrianyRenata02
+&show_icons=true
+&hide_border=true
+&bg_color=0d1117
+&title_color=39ff14
+&icon_color=39ff14
+&text_color=c9d1d9" />
 
-<!-- Garis gradient biru ungu -->
-<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=4facfe&color=purple&link=" width="100%" height="3px"/>
+</td>
+<td width="50%" align="center">
+
+### 🔥 GitHub Streak
+<img src="https://github-readme-streak-stats.herokuapp.com
+?user=FebrianyRenata02
+&theme=github-dark
+&hide_border=true
+&background=0d1117
+&stroke=39ff14
+&ring=39ff14
+&fire=00ff9c
+&currStreakLabel=39ff14" />
+
+</td>
+</tr>
+</table>
+
+### 🧩 Most Used Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs
+?username=FebrianyRenata02
+&layout=compact
+&hide_border=true
+&bg_color=0d1117
+&title_color=39ff14
+&text_color=c9d1d9" />
+</p>
+
+<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=00ff9c" width="100%" height="3px"/>
 
 </div>
