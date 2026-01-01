@@ -18,6 +18,9 @@
 <div align="center">
 
 <pre>
+
+~root@Febriany Renata
+
 $ whoami
 > Febriany Renata
 
