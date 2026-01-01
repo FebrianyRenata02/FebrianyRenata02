@@ -19,7 +19,7 @@ $ whoami
 > Febriany Renata
 
 $ role
-> Web Developer | DevOps Engineer
+> Design | Web Developer | DevOps Engineer
 
 $ status
 > ACTIVE • LEARNING • BUILDING
