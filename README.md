@@ -19,7 +19,9 @@
 
 <pre>
 
-~root@Febriany Renata
+<a href="[https://febrianyrenata02.github.io](https://febrianyrenata.vercel.app/)" target="_blank" style="color:#39ff14; text-decoration:none;">
+~root@FebrianyRenata:~$
+</a>
 
 $ whoami
 > Febriany Renata
