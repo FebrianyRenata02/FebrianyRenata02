@@ -1,5 +1,11 @@
 <div align="center">
 
+<!-- HACKER DIVIDER -->
+<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="85%" height="2px"/>
+
+<!-- OPTIONAL MATRIX EFFECT -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
 <!-- ===============================
      CYBER HACKER BANNER
 ================================ -->
