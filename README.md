@@ -127,7 +127,7 @@ $ open portfolio
 &text_color=39ff14" />
 </p>
 
-
+<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
 
 <pre>
 $ exit
