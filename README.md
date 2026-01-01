@@ -19,7 +19,7 @@
 
 <pre>
 
-~root@Febriany Renata
+/root@Febriany Renata
 
 $ whoami
 > Febriany Renata
