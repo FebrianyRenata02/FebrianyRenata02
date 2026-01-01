@@ -25,19 +25,19 @@ $ status
 > ACTIVE • LEARNING • BUILDING
 </pre>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39ff14&center=true&vCenter=true&width=750&lines=I'm+Web+Developer+%26+DevOps+Engineer;Always+Learning+New+Things;Welcome+to+My+GitHub+Profile!;Initializing+System...;Loading+Developer+Profile...;Access+Granted+✔;Welcome+to+My+GitHub+Terminal" />
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39ff14&center=true&vCenter=true&width=750&lines=I'm+Web+Developer+%26+DevOps+Engineer;Always+Learning+New+Things;Welcome+to+My+Github+Profile!;Initializing+System...;Loading+Developer+Profile...;Access+Granted+✔;Welcome+to+My+GitHub+Terminal)](https://git.io/typing-svg)
 
 ---
 
-## 🟢 SYSTEM INFO
+🟢 **SYSTEM INFO**
 - 🌱 Learning: `HTML · CSS · JavaScript · Express · React`
 - 🤝 Collaboration: `OPEN`
 - 📫 Contact: `Discord | WhatsApp`
 
+  <!-- HACKER DIVIDER -->
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="85%" height="2px"/>
 
+<!-- OPTIONAL MATRIX EFFECT -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
@@ -45,7 +45,6 @@ $ status
 ---
 
 ## 🧪 TECH MODULES LOADED
-
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=39ff14)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=39ff14)
 ![Sass](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=39ff14)
@@ -77,24 +76,45 @@ $ status
 
 <table align="center">
 <tr>
-
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FebrianyRenata02&show_icons=true&hide_border=true&bg_color=000000&title_color=39ff14&icon_color=39ff14&text_color=39ff14" />
+### 📊 CORE METRICS
+<img src="https://github-readme-stats.vercel.app/api
+?username=FebrianyRenata02
+&show_icons=true
+&hide_border=true
+&bg_color=000000
+&title_color=39ff14
+&icon_color=39ff14
+&text_color=39ff14" />
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=FebrianyRenata02&hide_border=true&background=000000&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" />
+### 🔥 ACTIVITY TRACE
+<img src="https://github-readme-streak-stats.herokuapp.com
+?user=FebrianyRenata02
+&hide_border=true
+&background=000000
+&stroke=39ff14
+&ring=39ff14
+&fire=39ff14
+&currStreakLabel=39ff14" />
 
 </td>
-
 </tr>
 </table>
 
+### 🧩 LANGUAGE DISTRIBUTION
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FebrianyRenata02&layout=compact&hide_border=true&bg_color=000000&title_color=39ff14&text_color=39ff14" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs
+?username=FebrianyRenata02
+&layout=compact
+&hide_border=true
+&bg_color=000000
+&title_color=39ff14
+&text_color=39ff14" />
 </p>
 
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
@@ -103,3 +123,5 @@ $ status
 $ exit
 > Connection closed.
 </pre>
+
+</div>
