@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Febriany%20Renata&fontSize=48&fontColor=39ff14&animation=fadeIn&fontAlignY=38&color=0:000000,100:0a0f0a" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=Initializing+Terminal...;Accessing+Secure+System...;Identity+Verified:+Febriany+Renata;Role:+Design+%7C+Web+Developer+%7C+DevOps+Engineer;System+Status:+ONLINE+✔" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=Terminal;+cmd+%7C+termux+powershell;Initializing+Terminal...;Accessing+Secure+System...;Identity+Verified:+Febriany+Renata;Role:+Design+%7C+Web+Developer+%7C+DevOps+Engineer;System+Status:+ONLINE+✔" />
 
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="85%" height="2px"/>
 
