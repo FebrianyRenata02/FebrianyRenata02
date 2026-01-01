@@ -1,5 +1,3 @@
-# Hi there, I'm Febriany Renata 👋
-
 <div align="center">
 
 <!-- ================= SYSTEM HEADER ================= -->
