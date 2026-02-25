@@ -32,8 +32,6 @@ $ open portfolio
 > https://febrianyrenata.vercel.app
 </pre>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39ff14&center=true&vCenter=true&width=750&lines=I'm+Web+Developer+%26+DevOps+Engineer;Always+Learning+New+Things;Welcome+to+My+Github+Profile!;Initializing+System...;Loading+Developer+Profile...;Access+Granted+✔;Welcome+to+My+GitHub+Terminal)](https://git.io/typing-svg)
-
 ---
 
 ## 🧪 System OS
@@ -58,6 +56,8 @@ $ open portfolio
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
 
 ---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39ff14&center=true&vCenter=true&width=750&lines=I'm+Web+Developer+%26+DevOps+Engineer;Always+Learning+New+Things;Welcome+to+My+Github+Profile!;Initializing+System...;Loading+Developer+Profile...;Access+Granted+✔;Welcome+to+My+GitHub+Terminal)](https://git.io/typing-svg)
 
 🟢 **SYSTEM INFO**
 - 🌱 Learning: `HTML · CSS · JavaScript · Express · React`
