@@ -51,6 +51,20 @@ $ open portfolio
 
 ---
 
+## 🧪 System os
+![Mac OS](https://cdn-icons-png.flaticon.com/512/2/2235.png)
+![Windows](https://cdn-icons-png.flaticon.com/512/888/888882.png)
+![Linux](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=39ff14)
+![BSD](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=39ff14)
+![Solaris](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=39ff14)
+
+<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
+
+---
+
+
+---
+
 ## 🧪 TECH MODULES LOADED
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=39ff14)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=39ff14)
