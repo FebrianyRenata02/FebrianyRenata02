@@ -52,7 +52,7 @@ $ open portfolio
 ---
 
 ## 🧪 System os
-![Mac OS](https://www.flaticon.com/free-icon/mac-os-logo_2235)
+![Mac OS](https://cdn-icons-png.flaticon.com/512/2/2235.png)
 ![Windows](https://cdn-icons-png.flaticon.com/512/888/888882.png)
 ![Linux](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=39ff14)
 ![BSD](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=39ff14)
