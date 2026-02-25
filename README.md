@@ -59,6 +59,8 @@ $ open portfolio
 ![BSD](https://img.shields.io/badge/BSD-0d1117?style=for-the-badge&logo=freebsd&logoColor=39ff14)
 ![Solaris](https://img.shields.io/badge/Solaris-0d1117?style=for-the-badge&logo=solaris&logoColor=39ff14)
 ![Haiku](https://img.shields.io/badge/Haiku-0d1117?style=for-the-badge&logo=haiku&logoColor=39ff14)
+![UNIX](https://img.shields.io/badge/UNIX-0d1117?style=for-the-badge&logo=unix&logoColor=39ff14)
+![Multics](https://img.shields.io/badge/Multics-0d1117?style=for-the-badge&logo=gnu&logoColor=39ff14)
 ![Minix](https://img.shields.io/badge/Minix-0d1117?style=for-the-badge&logo=minix&logoColor=39ff14)
 ![Redox OS](https://img.shields.io/badge/Redox_OS-0d1117?style=for-the-badge&logo=redox&logoColor=39ff14)
 ![SerenityOS](https://img.shields.io/badge/SerenityOS-0d1117?style=for-the-badge&logo=serenityos&logoColor=39ff14)
