@@ -51,14 +51,6 @@ $ open portfolio
 
 ---
 
-## 🧪 System os
-![Mac OS](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=39ff14)
-![Windows](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=39ff14)
-![Linux](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=39ff14)
-![BSD](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=39ff14)
-![Solaris](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=39ff14)
-
-
 ## 🧪 System OS
 
 ![MacOS](https://img.shields.io/badge/MacOS-0d1117?style=for-the-badge&logo=apple&logoColor=39ff14)
