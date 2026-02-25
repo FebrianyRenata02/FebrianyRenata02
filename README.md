@@ -57,7 +57,7 @@ $ open portfolio
 ![Windows](https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=39ff14)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39ff14)
 ![BSD](https://img.shields.io/badge/BSD-0d1117?style=for-the-badge&logo=freebsd&logoColor=39ff14)
-![Solaris](https://img.shields.io/badge/Solaris-0d1117?style=for-the-badge&logo=oracle&logoColor=39ff14)
+![Solaris](https://img.shields.io/badge/Solaris-0d1117?style=for-the-badge&logo=solaris&logoColor=39ff14)
 
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
 
