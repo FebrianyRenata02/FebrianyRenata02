@@ -39,6 +39,16 @@ $ open portfolio
 - 🤝 Collaboration: `OPEN`
 - 📫 Contact: `Discord | WhatsApp`
 
+  <!-- HACKER DIVIDER -->
+<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="85%" height="2px"/>
+
+<!-- OPTIONAL MATRIX EFFECT -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
+
+---
+
 ---
 
 ## 🧪 System OS
@@ -59,16 +69,6 @@ $ open portfolio
 ![ChromeOS Flex](https://img.shields.io/badge/ChromeOS_Flex-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39ff14)
 ![MenuetOS](https://img.shields.io/badge/MenuetOS-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=39ff14)
 ![ArcaOS](https://img.shields.io/badge/ArcaOS-0d1117?style=for-the-badge&logo=ibm&logoColor=39ff14)
-
-<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
-
----
-
-  <!-- HACKER DIVIDER -->
-<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="85%" height="2px"/>
-
-<!-- OPTIONAL MATRIX EFFECT -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
 
