@@ -39,7 +39,7 @@ $ open portfolio
 - 🤝 Collaboration: `OPEN`
 - 📫 Contact: `Discord | WhatsApp`
 
-  ---
+---
 
 ## 🧪 System OS
 
