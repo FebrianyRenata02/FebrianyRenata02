@@ -78,8 +78,6 @@ $ open portfolio
 
 ---
 
----
-
 ## 🧪 TECH MODULES LOADED
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=39ff14)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=39ff14)
