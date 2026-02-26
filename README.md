@@ -73,7 +73,6 @@ $ open portfolio
 
 
 <!-- OPTIONAL MATRIX EFFECT -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
 
