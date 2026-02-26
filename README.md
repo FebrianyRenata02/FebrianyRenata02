@@ -52,11 +52,11 @@ $ open portfolio
 ![ChromeOS Flex](https://img.shields.io/badge/ChromeOS_Flex-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39ff14)
 ![MenuetOS](https://img.shields.io/badge/MenuetOS-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=39ff14)
 ![ArcaOS](https://img.shields.io/badge/ArcaOS-0d1117?style=for-the-badge&logo=ibm&logoColor=39ff14)
-![BeOS](https://img.shields.io/badge/ArcaOS-0d1117?style=for-the-badge&logo=ibm&logoColor=39ff14)
-![AmigaOS](https://img.shields.io/badge/ArcaOS-0d1117?style=for-the-badge&logo=ibm&logoColor=39ff14)
-![MorphOS](https://img.shields.io/badge/ArcaOS-0d1117?style=for-the-badge&logo=ibm&logoColor=39ff14)
-![RISC OS](https://img.shields.io/badge/ArcaOS-0d1117?style=for-the-badge&logo=ibm&logoColor=39ff14)
-![OpenVMS](https://img.shields.io/badge/ArcaOS-0d1117?style=for-the-badge&logo=ibm&logoColor=39ff14)
+![BeOS](https://img.shields.io/badge/BeOS-0d1117?style=for-the-badge&logo=beos&logoColor=39ff14)
+![AmigaOS](https://img.shields.io/badge/AmigaOS-0d1117?style=for-the-badge&logo=amiga&logoColor=39ff14)
+![MorphOS](https://img.shields.io/badge/MorphOS-0d1117?style=for-the-badge&logo=reactos&logoColor=39ff14)
+![RISC OS](https://img.shields.io/badge/RISC_OS-0d1117?style=for-the-badge&logo=arm&logoColor=39ff14)
+![OpenVMS](https://img.shields.io/badge/OpenVMS-0d1117?style=for-the-badge&logo=hp&logoColor=39ff14)
 
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
 
