@@ -13,7 +13,7 @@
 
 </div>
 
-<div align="">
+<div align="center">
 
 <pre>
 
