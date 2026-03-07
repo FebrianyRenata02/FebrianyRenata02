@@ -118,6 +118,8 @@ $ open portfolio
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=header"/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -177,6 +179,8 @@ $ open portfolio
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FebrianyRenata02&bg_color=000000&color=39ff14&line=39ff14&point=39ff14&area=true&area_color=003300&hide_border=true"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=footer"/>
 
 ---
 
