@@ -1,85 +1,9 @@
-<div align="center">
-
-<!-- ===============================
-     CYBER HACKER BANNER
-================================ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Febriany%20Renata&fontSize=48&fontColor=39ff14&animation=fadeIn&fontAlignY=38&color=0:000000,100:0a0f0a" />
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=Open+Terminal;+cmd+%7C+termux+%7C+powershell;Initializing+Terminal...;Accessing+Secure+System...;Identity+Verified:+Febriany+Renata;Role:;+Design+%7C+Web+Developer+%7C+DevOps+Engineer;System+Status:+ONLINE+✔" />
-
-<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="85%" height="2px"/>
-
-</div>
-
-<div align="center">
-
-<pre>
-
-<a href="https://febrianyrenata.vercel.app" target="_blank" style="color:#39ff14; text-decoration:none;">
-~root@FebrianyRenata:~$
-</a>
-$ whoami
-> Febriany Renata
-
-$ role
-> Design | Web Developer | DevOps Engineer
-
-$ status
-> ACTIVE • LEARNING • BUILDING
-
-$ open portfolio
-> https://febrianyrenata.vercel.app
-</pre>
-
----
-
-## 🧪 System OS
-
-![MacOS](https://img.shields.io/badge/MacOS-0d1117?style=for-the-badge&logo=apple&logoColor=39ff14)
-![Windows](https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=39ff14)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39ff14)
-![BSD](https://img.shields.io/badge/BSD-0d1117?style=for-the-badge&logo=freebsd&logoColor=39ff14)
-![Solaris](https://img.shields.io/badge/Solaris-0d1117?style=for-the-badge&logo=solaris&logoColor=39ff14)
-![Haiku](https://img.shields.io/badge/Haiku-0d1117?style=for-the-badge&logo=haiku&logoColor=39ff14)
-![UNIX](https://img.shields.io/badge/UNIX-0d1117?style=for-the-badge&logo=unix&logoColor=39ff14)
-![Multics](https://img.shields.io/badge/Multics-0d1117?style=for-the-badge&logo=gnu&logoColor=39ff14)
-![Minix](https://img.shields.io/badge/Minix-0d1117?style=for-the-badge&logo=minix&logoColor=39ff14)
-![Redox OS](https://img.shields.io/badge/Redox_OS-0d1117?style=for-the-badge&logo=redox&logoColor=39ff14)
-![SerenityOS](https://img.shields.io/badge/SerenityOS-0d1117?style=for-the-badge&logo=serenityos&logoColor=39ff14)
-![ReactOS](https://img.shields.io/badge/ReactOS-0d1117?style=for-the-badge&logo=reactos&logoColor=39ff14)
-![TempleOS](https://img.shields.io/badge/TempleOS-0d1117?style=for-the-badge&logo=templeos&logoColor=39ff14)
-![ChromeOS Flex](https://img.shields.io/badge/ChromeOS_Flex-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39ff14)
-![MenuetOS](https://img.shields.io/badge/MenuetOS-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=39ff14)
-![ArcaOS](https://img.shields.io/badge/ArcaOS-0d1117?style=for-the-badge&logo=ibm&logoColor=39ff14)
-![BeOS](https://img.shields.io/badge/BeOS-0d1117?style=for-the-badge&logo=beos&logoColor=39ff14)
-![AmigaOS](https://img.shields.io/badge/AmigaOS-0d1117?style=for-the-badge&logo=amiga&logoColor=39ff14)
-![MorphOS](https://img.shields.io/badge/MorphOS-0d1117?style=for-the-badge&logo=reactos&logoColor=39ff14)
-![RISC OS](https://img.shields.io/badge/RISC_OS-0d1117?style=for-the-badge&logo=arm&logoColor=39ff14)
-![OpenVMS](https://img.shields.io/badge/OpenVMS-0d1117?style=for-the-badge&logo=hp&logoColor=39ff14)
-
-<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
-
----
-
-## Snake Animation 🐍 
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39ff14&center=true&vCenter=true&width=750&lines=I'm+Web+Developer+%26+DevOps+Engineer;Always+Learning+New+Things;Welcome+to+My+Github+Profile!;Initializing+System...;Loading+Developer+Profile...;Access+Granted+✔;Welcome+to+My+GitHub+Terminal)](https://git.io/typing-svg)
 
-🟢 **SYSTEM INFO**
-- 🌱 Learning: `HTML · CSS · JavaScript · Express · React`
-- 🤝 Collaboration: `OPEN`
-- 📫 Contact: `Discord | WhatsApp`
+🟢 SYSTEM INFO
+- 🌱 Learning: HTML · CSS · JavaScript · Express · React
+- 🤝 Collaboration: OPEN
+- 📫 Contact: Discord | WhatsApp
 
   <!-- HACKER DIVIDER -->
 
@@ -130,7 +54,7 @@ $ open portfolio
 
 <div align="center">
 
-<img src="https://san-digital-agency.vercel.app/?username=FebrianyRenata02&layout=compact&hide_border=true&bg_color=000000&title_color=39ff14&text_color=39ff14"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebrianyRenata02&layout=compact&hide_border=true&bg_color=000000&title_color=39ff14&text_color=39ff14"/>
 
 </div>
 
@@ -138,7 +62,7 @@ $ open portfolio
 
 <div align="center">
 
-<img src="https://san-digital-agency.vercel.app//graph?username=FebrianyRenata02&bg_color=000000&color=39ff14&line=39ff14&point=39ff14&area=true&area_color=003300&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FebrianyRenata02&bg_color=000000&color=39ff14&line=39ff14&point=39ff14&area=true&area_color=003300&hide_border=true"/>
 
 </div>
 
@@ -163,37 +87,3 @@ $ open portfolio
 </td>
 
 <td width="50%" align="center">
-
-### 🔥 ACTIVITY TRACE
-<img src="https://github-readme-streak-stats.herokuapp.com
-?user=FebrianyRenata02
-&hide_border=true
-&background=000000
-&stroke=39ff14
-&ring=39ff14
-&fire=39ff14
-&currStreakLabel=39ff14" />
-
-</td>
-</tr>
-</table>
-
-### 🧩 LANGUAGE DISTRIBUTION
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs
-?username=FebrianyRenata02
-&layout=compact
-&hide_border=true
-&bg_color=000000
-&title_color=39ff14
-&text_color=39ff14" />
-</p>
-
-<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
-
-<pre>
-$ exit
-> Connection closed.
-</pre>
-
-</div>
