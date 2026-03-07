@@ -10,6 +10,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=Open+Terminal;+cmd+%7C+termux+%7C+powershell;Initializing+Terminal...;Accessing+Secure+System...;Identity+Verified:+Febriany+Renata;Role:;+Design+%7C+Web+Developer+%7C+DevOps+Engineer;System+Status:+ONLINE+✔" />
 
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="85%" height="2px"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=header"/>
 
 </div>
 
@@ -117,8 +118,6 @@ $ open portfolio
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=header"/>
 
 ## 📊 GitHub Stats
 
