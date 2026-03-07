@@ -118,22 +118,20 @@ $ open portfolio
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mahiiru&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=FebrianyRenata02&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiiru&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
-</div>
+<br>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=FebrianyRenata02&show_icons=true&hide_border=true&bg_color=000000&title_color=39ff14&icon_color=39ff14&text_color=39ff14"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahiiru&theme=tokyo-night&hide_border=true&bg_color=0D0021&color=FFB7C5&line=FF8FAB&point=C9B8FF&area=true&area_color=2D0E3E" width="100%"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebrianyRenata02&layout=compact&hide_border=true&bg_color=000000&title_color=39ff14&text_color=39ff14"/>
+
 </div>
 
 ---
