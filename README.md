@@ -37,9 +37,13 @@ $ open portfolio
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/FebrianyRenata02/FebrianyRenata02/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
 
 ## 🧪 System OS
 
