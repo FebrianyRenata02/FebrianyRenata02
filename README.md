@@ -121,13 +121,13 @@ $ open portfolio
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FebrianyRenata02&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=FebrianyRenata02&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebrianyRenata02&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebrianyRenata02&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 </div>
 
 <br/>
