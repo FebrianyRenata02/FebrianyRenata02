@@ -35,6 +35,12 @@ $ open portfolio
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FebrianyRenata02/FebrianyRenata02/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 ## 🧪 System OS
 
 ![MacOS](https://img.shields.io/badge/MacOS-0d1117?style=for-the-badge&logo=apple&logoColor=39ff14)
