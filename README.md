@@ -134,7 +134,7 @@ $ open portfolio
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FebrianyRenata02&theme=tokyonight" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FebrianyRenata02&theme=github_dark" width="98%" />
 
 </div>
 
@@ -142,15 +142,17 @@ $ open portfolio
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FebrianyRenata02&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FebrianyRenata02&theme=github_dark" width="49%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FebrianyRenata02&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FebrianyRenata02&theme=github_dark" width="49%" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=FebrianyRenata02&theme=tokyonight&hide_border=true&background=000000&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideNums=39ff14&currStreakNum=39ff14&dates=39ff14"/>
+<img src="https://streak-stats.demolab.com?user=FebrianyRenata02&theme=dark&hide_border=true&background=000000&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideNums=39ff14&currStreakNum=39ff14&dates=39ff14"/>
 
 </div>
 
@@ -169,6 +171,7 @@ $ open portfolio
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FebrianyRenata02&bg_color=000000&color=39ff14&line=39ff14&point=39ff14&area=true&area_color=003300&hide_border=true"/>
 
 </div>
+
 ---
 
 ## 📡 SYSTEM ANALYTICS
