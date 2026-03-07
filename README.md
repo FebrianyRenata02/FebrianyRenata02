@@ -4,9 +4,8 @@
      CYBER HACKER BANNER
 ================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Febriany%20Renata&fontSize=48&fontColor=39ff14&animation=fadeIn&fontAlignY=38&color=0:000000,100:0a0f0a" />
 
-<img src="https://capsule-render.vercel.app/api? type=waving&height=260&section=header&text=Febriany%20Renata&fontSize=48&fontColor=39ff14&animation=fadeIn&fontAlignY=38&color=0:000000,100:0a0f0a" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=Open+Terminal;+cmd+%7C+termux+%7C+powershell;Initializing+Terminal...;Accessing+Secure+System...;Identity+Verified:+Febriany+Renata;Role:;+Design+%7C+Web+Developer+%7C+DevOps+Engineer;System+Status:+ONLINE+✔" />
 
@@ -122,64 +121,20 @@ $ open portfolio
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FebrianyRenata02&theme=chartreuse-dark" width="98%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FebrianyRenata02&theme=chartreuse-dark" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FebrianyRenata02&theme=chartreuse-dark" width="49%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FebrianyRenata02&theme=github_dark" width="98%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FebrianyRenata02&theme=github_dark" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FebrianyRenata02&theme=github_dark" width="49%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=FebrianyRenata02&theme=dark&hide_border=true&background=000000&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideNums=39ff14&currStreakNum=39ff14&dates=39ff14"/>
-
+  <img src="https://streak-stats.demolab.com/?user=FebrianyRenata02&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebrianyRenata02&layout=compact&hide_border=true&bg_color=000000&title_color=39ff14&text_color=39ff14"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebrianyRenata02&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FebrianyRenata02&bg_color=000000&color=39ff14&line=39ff14&point=39ff14&area=true&area_color=003300&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FebrianyRenata02&theme=tokyo-night&hide_border=true&bg_color=0D0021&color=FFB7C5&line=FF8FAB&point=C9B8FF&area=true&area_color=2D0E3E" width="100%"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=footer"/>
 
 ---
 
