@@ -122,11 +122,17 @@ $ open portfolio
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/FebrianyRenata02?style=for-the-badge&logo=github&label=Followers&color=39ff14&labelColor=000000" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FebrianyRenata02&theme=chartreuse-dark" width="98%" />
 
-<img src="https://img.shields.io/github/stars/FebrianyRenata02?style=for-the-badge&logo=github&label=Total%20Stars&color=39ff14&labelColor=000000" />
+</div>
 
-<img src="https://img.shields.io/github/last-commit/FebrianyRenata02/FebrianyRenata02?style=for-the-badge&logo=github&label=Last%20Update&color=39ff14&labelColor=000000" />
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FebrianyRenata02&theme=chartreuse-dark" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FebrianyRenata02&theme=chartreuse-dark" width="49%" />
 
 </div>
 
