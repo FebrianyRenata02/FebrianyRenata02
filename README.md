@@ -35,7 +35,7 @@ $ open portfolio
 
 ---
 
-## 🐍 Contribution Snake
+## Snake Animation 🐍 
 
 <div align="center">
   <picture>
