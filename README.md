@@ -121,6 +121,21 @@ $ open portfolio
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://img.shields.io/github/followers/arif-budianto?style=for-the-badge&logo=github&label=Followers&color=0ea5e9" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/arif-budianto?style=for-the-badge&logo=github&label=Total%20Stars&color=0ea5e9" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/last-commit/arif-budianto/Github?style=for-the-badge&logo=github&label=Last%20Update&color=0ea5e9" alt="Last Commit" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arif-budianto&theme=github_dark" width="98%" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arif-budianto&theme=github_dark" width="49%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arif-budianto&theme=github_dark" width="49%" alt="Most Commit Language" />
+</div>
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=FebrianyRenata02&theme=tokyonight&hide_border=true&background=000000&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideNums=39ff14&currStreakNum=39ff14&dates=39ff14"/>
 
