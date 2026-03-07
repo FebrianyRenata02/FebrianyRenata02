@@ -128,14 +128,6 @@ $ open portfolio
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FebrianyRenata02&theme=github_dark" width="98%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FebrianyRenata02&theme=github_dark" width="49%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FebrianyRenata02&theme=github_dark" width="49%" />
