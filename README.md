@@ -114,8 +114,6 @@ $ open portfolio
 ![MikroTik](https://img.shields.io/badge/MikroTik-0d1117?style=for-the-badge&logo=mikrotik&logoColor=39ff14)
 ![IoT](https://img.shields.io/badge/IoT-0d1117?style=for-the-badge&logo=internetofthings&logoColor=39ff14)
 
-<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
-
 ---
 
 ## 📊 GitHub Stats
