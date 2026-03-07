@@ -121,13 +121,13 @@ $ open portfolio
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/arif-budianto?style=for-the-badge&logo=github&label=Followers&color=0ea5e9" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/FebrianyRenata02?style=for-the-badge&logo=github&label=Followers&color=0ea5e9" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/arif-budianto?style=for-the-badge&logo=github&label=Total%20Stars&color=0ea5e9" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/last-commit/arif-budianto/Github?style=for-the-badge&logo=github&label=Last%20Update&color=0ea5e9" alt="Last Commit" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arif-budianto&theme=github_dark" width="98%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FebrianyRenata02&theme=github_dark" width="98%" alt="Profile Details" />
 </div>
 
 <div align="center">
