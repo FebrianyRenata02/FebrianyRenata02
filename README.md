@@ -134,7 +134,8 @@ FebrianyRenata02&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compac
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahiiru&theme=tokyo-night&hide_border=true&bg_color=0D0021&color=FFB7C5&line=FF8FAB&point=C9B8FF&area=true&area_color=2D0E3E" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febriany Renata
+FebrianyRenata02&theme=tokyo-night&hide_border=true&bg_color=0D0021&color=FFB7C5&line=FF8FAB&point=C9B8FF&area=true&area_color=2D0E3E" width="100%"/>
 </div>
 
 ---
