@@ -178,8 +178,6 @@ $ open portfolio
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=footer"/>
-
 ---
 
 ## 📡 SYSTEM ANALYTICS
@@ -235,3 +233,5 @@ $ exit
 </pre>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=footer"/>
