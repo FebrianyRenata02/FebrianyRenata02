@@ -1,5 +1,4 @@
 <div align="center">
-
      
 <!-- ===============================
      CYBER HACKER BANNER
