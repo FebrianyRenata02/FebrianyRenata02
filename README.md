@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://febrianyrenata.vercel.app/" target="_blank">
-    <img src="./assets/portfolio-card.svg" width="48%" />
+    <img src="./portfolio-card.svg" width="48%" />
   </a>
   <a href="https://san-global-digital.vercel.app/" target="_blank">
     <img src="./assets/company-profile-card.svg" width="48%" />
