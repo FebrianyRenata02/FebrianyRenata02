@@ -13,7 +13,7 @@
     <img src="./portfolio-card.svg" width="48%" />
   </a>
   <a href="https://san-global-digital.vercel.app/" target="_blank">
-    <img src="./assets/company-profile-card.svg" width="48%" />
+    <img src="./company-profile-card.svg" width="48%" />
   </a>
 </p>
 
