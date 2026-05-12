@@ -12,7 +12,9 @@
 
 </div>
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://febrianyrenata.vercel.app/" target="_blank">
