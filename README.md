@@ -8,7 +8,7 @@
   <a href="https://github.com/SansDev-Comunity">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Febriany%20Renata&desc=Founder%20of%20San%20Global%20Digital&fontSize=48&fontColor=39ff14&descSize=20&descColor=39ff14&animation=fadeIn&fontAlignY=34&descAlignY=55&color=0:000000,100:0a0f0a" />
   </a>
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
+
 </p>
 
 </div>
