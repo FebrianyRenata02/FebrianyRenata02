@@ -160,8 +160,6 @@ $ open portfolio
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebrianyRenata02&layout=compact&hide_border=true&bg_color=000000&title_color=39ff14&text_color=39ff14"/> -->
-
 </div>
 
 <br/>
