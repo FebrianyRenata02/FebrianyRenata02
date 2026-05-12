@@ -21,6 +21,13 @@
   </a>
 </p>
 
+<!-- ===============================
+     GREEN GITBLOCK 3D STATS
+================================ -->
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" />
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=Open+Terminal;+cmd+%7C+termux+%7C+powershell;Initializing+Terminal...;Accessing+Secure+System...;Identity+Verified:+Febriany+Renata;Role:;+Design+%7C+Web+Developer+%7C+DevOps+Engineer;System+Status:+ONLINE+✔" />
 
