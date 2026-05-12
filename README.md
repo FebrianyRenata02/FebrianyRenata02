@@ -168,9 +168,8 @@ $ open portfolio
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FebrianyRenata02&bg_color=000000&color=39ff14&line=39ff14&point=39ff14&area=true&area_color=003300&hide_border=true"/>
-
 <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/img/hackerman.gif" height="140px"/>
+
 </div>
 
 ---
