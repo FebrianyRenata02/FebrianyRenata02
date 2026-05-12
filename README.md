@@ -208,6 +208,8 @@ $ open portfolio
 </tr>
 </table>
 
+<img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/img/hackerman.gif" height="140px"/>
+
 ### 🧩 LANGUAGE DISTRIBUTION
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs
