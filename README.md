@@ -1,28 +1,12 @@
-<!-- <div align="center"> -->
-
-<!-- ===============================
-     CYBER HACKER BANNER
-================================ -->
-
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Febriany%20Renata&desc=Founder%20of%20San%20Global%20Digital&fontSize=48&fontColor=39ff14&descSize=20&descColor=39ff14&animation=fadeIn&fontAlignY=34&descAlignY=55&color=0:000000,100:0a0f0a" />
-</p> -->
-
-<div align="center">
+ <div align="center">
 
 <!-- ===============================
      CYBER HACKER BANNER
 ================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Febriany%20Renata&fontSize=48&fontColor=39ff14&animation=fadeIn&fontAlignY=42&color=0:000000,100:0a0f0a" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Febriany%20Renata&desc=Founder%20of%20San%20Global%20Digital&fontSize=48&fontColor=39ff14&descSize=20&descColor=39ff14&animation=fadeIn&fontAlignY=34&descAlignY=55&color=0:000000,100:0a0f0a" />
 </p>
-
-<a href="https://github.com/SansDev-Comunity">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=999999&pause=999999&color=39FF14&center=true&vCenter=true&width=700&lines=Founder+of+San+Global+Digital" />
-</a>
-
-</div>
 
 <p align="center">
   <a href="https://febrianyrenata.vercel.app/" target="_blank">
