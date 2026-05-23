@@ -10,14 +10,6 @@
   </a>
 </p>
 
-  <a href="https://arcangelo.net/1">
-    <img src="https://media.tenor.com/3v2pOuthO0UAAAAM/gaming.gif" width="420" height="460"/>
-  </a>
-
-</div>
-
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
-
 <p align="center">
   <a href="https://febrianyrenata.vercel.app/" target="_blank">
     <img src="./portfolio-card.svg" width="48%" />
@@ -26,6 +18,14 @@
     <img src="./company-profile-card.svg" width="48%" />
   </a>
 </p>
+
+  <a href="https://arcangelo.net/1">
+    <img src="https://media.tenor.com/3v2pOuthO0UAAAAM/gaming.gif" width="420" height="460"/>
+  </a>
+
+</div>
+
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=Open+Terminal;+cmd+%7C+termux+%7C+powershell;Initializing+Terminal...;Accessing+Secure+System...;Identity+Verified:+Febriany+Renata;Role:;+Design+%7C+Web+Developer+%7C+DevOps+Engineer;System+Status:+ONLINE+✔" />
 
