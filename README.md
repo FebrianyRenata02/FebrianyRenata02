@@ -158,8 +158,6 @@ $ open portfolio
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=FebrianyRenata02&theme=dark&hide_border=true&background=000000&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideNums=39ff14&currStreakNum=39ff14&dates=39ff14"/>
-
 </div>
 
 <br/>
