@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- ===============================
-     CYBER HACKER BANNER
-================================ -->
-
 <p align="center">
   <a href="https://github.com/SansDev-Comunity">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Febriany%20Renata&desc=Founder%20of%20San%20Global%20Digital&fontSize=48&fontColor=39ff14&descSize=20&descColor=39ff14&animation=fadeIn&fontAlignY=34&descAlignY=55&color=0:000000,100:0a0f0a" />
@@ -101,12 +97,7 @@ $ open portfolio
 - 🤝 Collaboration: `OPEN`
 - 📫 Contact: `Discord | WhatsApp`
 
-  <!-- HACKER DIVIDER -->
-
-
-<!-- OPTIONAL MATRIX EFFECT -->
-
-<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
+  <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
 
 ---
 
@@ -142,12 +133,6 @@ $ open portfolio
 
 <div align="center">
 
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FebrianyRenata02&theme=github_dark" width="49%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FebrianyRenata02&theme=github_dark" width="49%" />
@@ -157,28 +142,14 @@ $ open portfolio
 <br>
 
 <div align="center">
-
-</div>
-
-<br/>
-
-<div align="center">
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/img/hackerman.gif" height="140px"/>
-
 </div>
 
 ---
 
 ## 📡 SYSTEM ANALYTICS
 
-<table align="center">
+<table width="100%" align="center">
 <tr>
 <td width="50%" align="center">
 
@@ -221,13 +192,16 @@ $ open portfolio
 &text_color=39ff14" />
 </p>
 
+<table width="100%">
+<tr><td>
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
+</td></tr>
+</table>
 
 <pre>
 $ exit
 > Connection closed.
 </pre>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=footer"/>
 </div>
