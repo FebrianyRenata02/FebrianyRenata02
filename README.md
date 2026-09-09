@@ -133,16 +133,36 @@ $ open portfolio
 
 <div align="center">
 
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FebrianyRenata02&theme=github_dark" width="49%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FebrianyRenata02&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FebrianyRenata`02&theme=github_dark" width="49%" />
 
 </div>
 
 <br>
 
 <div align="center">
+
+</div>
+
+<br/>
+
+<div align="center">
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/img/hackerman.gif" height="140px"/>
+
 </div>
 
 ---
