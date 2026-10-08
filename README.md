@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/SansDev-Comunity">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Febriany%20Renata&desc=Founder%20of%20San%20Global%20Digital&fontSize=48&fontColor=39ff14&descSize=20&descColor=39ff14&animation=fadeIn&fontAlignY=34&descAlignY=55&color=0:000000,100:0a0f0a" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Febriany%20Renata&desc=Freelancer%20%7C%20Founder%20of%20SAN%20Global%20Digital&fontSize=48&fontColor=39ff14&descSize=20&descColor=39ff14&animation=fadeIn&fontAlignY=34&descAlignY=55&color=0:000000,100:0a0f0a" />
   </a>
 </p>
 <p align="center">
@@ -24,25 +24,20 @@
 
 ![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=Open+Terminal;+cmd+%7C+termux+%7C+powershell;Initializing+Terminal...;Accessing+Secure+System...;Identity+Verified:+Febriany+Renata;Role:;+Design+%7C+Web+Developer+%7C+DevOps+Engineer;System+Status:+ONLINE+✔" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=Open+Terminal;+cmd+%7C+termux+%7C+powershell;Initializing+Terminal...;Accessing+Secure+System...;Identity+Verified:+Febriany+Renata;Role:;+Freelancer+%7C+Founder+of+SAN+Global+Digital;System+Status:+ONLINE+✔" />
 
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="85%" height="2px"/>
-
-</div>
-
 
 <div align="center">
 
 <pre>
 
 <a href="https://febrianyrenata.vercel.app" target="_blank" style="color:#39ff14; text-decoration:none;">
-~root@FebrianyRenata:~$
-</a>
-$ whoami
+~root@FebrianyRenata:~$</a>$ whoami
 > Febriany Renata
 
 $ role
-> Design | Web Developer | DevOps Engineer
+> Freelancer | Founder of SAN Global Digital
 
 $ status
 > ACTIVE • LEARNING • BUILDING
@@ -90,7 +85,7 @@ $ open portfolio
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39ff14&center=true&vCenter=true&width=750&lines=I'm+Web+Developer+%26+DevOps+Engineer;Always+Learning+New+Things;Welcome+to+My+Github+Profile!;Initializing+System...;Loading+Developer+Profile...;Access+Granted+✔;Welcome+to+My+GitHub+Terminal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39ff14&center=true&vCenter=true&width=750&lines=I'm+Freelancer+%26+Founder+of+SAN+Global+Digital;Always+Learning+New+Things;Welcome+to+My+Github+Profile!;Initializing+System...;Loading+Developer+Profile...;Access+Granted+✔;Welcome+to+My+GitHub+Terminal)](https://git.io/typing-svg)
 
 🟢 **SYSTEM INFO**
 - 🌱 Learning: `HTML · CSS · JavaScript · Express · React`
